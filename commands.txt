@@ -1,0 +1,5 @@
+configuaration
+==============
+>git config -- list [list al config details]
+>git config -- global user.name "username" [adding a global user.name]
+>git config -- global user.name "useremail@gmail.com" [adding a global user.email]
