@@ -11,3 +11,10 @@ command for adding staging files to local repository
 >git commit -m "commit message"
 command for listing all untracked files
 >git status
+command for list branch
+>git branch
+command for view the remote repositories
+> git remote -v
+This command is used to connect your local Git repository to a remote repositor
+>git remote add origin <repo-url>  
+
